@@ -229,6 +229,11 @@
 				<Layers>GH:limites_do_morro_de_santo_antonio</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<CustomLayer>
+				<Name>GH:estruturas_de_mineracao</Name>
+				<Title>estruturas_de_mineracao</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
