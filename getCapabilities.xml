@@ -607,7 +607,7 @@
 				<Title>circuitos_turisticos</Title>
 				<Abstract>GH:circuitos_turisticos ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-43.90365022440977" miny="-21.717504238676774" maxx="-43.869099233685944" maxy="-21.668424612161644"></LatLonBoundingBox>
@@ -627,7 +627,7 @@
 				<Title>limites_uc</Title>
 				<Abstract>GH:limites_uc ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-43.905014273643985" miny="-21.726050282534153" maxx="-43.866760500481" maxy="-21.66682316762288"></LatLonBoundingBox>
