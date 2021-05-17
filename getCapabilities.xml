@@ -672,7 +672,7 @@
 				<Title>pe_ibitipoca_limites_uc_sirgas2000_23s_v2</Title>
 				<Abstract>GH:pe_ibitipoca_limites_uc_sirgas2000_23s_v2 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Paulo-Simoes-2021/Mappia_Example/releases/download/Map_Download/pe_ibitipoca_limites_uc_sirgas2000_23s_v2.zip˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Paulo-Simoes-2021/Mappia_Example/releases/download/Map_Download/pe_ibitipoca_limites_uc_sirgas2000_23s_v2.zip˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-43.905014273643985" miny="-21.726050282534153" maxx="-43.866760500481" maxy="-21.66682316762288"></LatLonBoundingBox>
