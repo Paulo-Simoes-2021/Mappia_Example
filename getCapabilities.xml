@@ -496,7 +496,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:circuitos</Layers>
+				<Layers>GH:trilhas_revisado_sirgas_2000</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -506,7 +506,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:circuitos</Layers>
+				<Layers>GH:trilhas_revisado_sirgas_2000</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -516,7 +516,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:trilhas_revisado_sirgas_2000</Layers>
+				<Layers>GH:circuitos</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -526,7 +526,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:trilhas_revisado_sirgas_2000</Layers>
+				<Layers>GH:circuitos</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -948,26 +948,6 @@
 				</Style>
 			</Layer>
 			<Layer queryable="1" opaque="0">
-				<Name>GH:circuitos</Name>
-				<Title>circuitos</Title>
-				<Abstract>GH:circuitos ABSTRACT</Abstract>
-				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
-				</KeywordList>
-				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-43.90332627307633" miny="-21.71744059357962" maxx="-43.869466452234" maxy="-21.668450771934218"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-43.90332627307633" miny="-21.71744059357962" maxx="-43.869466452234" maxy="-21.668450771934218"></BoundingBox>
-				<Style>
-					<Name>1</Name>
-					<Title>1</Title>
-					<Abstract></Abstract>
-					<LegendURL width="20" height="20">
-						<Format>image/png</Format>
-						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=circuitos"></OnlineResource>
-					</LegendURL>
-				</Style>
-			</Layer>
-			<Layer queryable="1" opaque="0">
 				<Name>GH:trilhas_revisado_sirgas_2000</Name>
 				<Title>trilhas_revisado_sirgas_2000</Title>
 				<Abstract>GH:trilhas_revisado_sirgas_2000 ABSTRACT</Abstract>
@@ -984,6 +964,26 @@
 					<LegendURL width="20" height="20">
 						<Format>image/png</Format>
 						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=trilhas_revisado_sirgas_2000"></OnlineResource>
+					</LegendURL>
+				</Style>
+			</Layer>
+			<Layer queryable="1" opaque="0">
+				<Name>GH:circuitos</Name>
+				<Title>circuitos</Title>
+				<Abstract>GH:circuitos ABSTRACT</Abstract>
+				<KeywordList>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+				</KeywordList>
+				<SRS>EPSG:4326</SRS>
+				<LatLonBoundingBox minx="-43.90332627307633" miny="-21.71744059357962" maxx="-43.869466452234" maxy="-21.668450771934218"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-43.90332627307633" miny="-21.71744059357962" maxx="-43.869466452234" maxy="-21.668450771934218"></BoundingBox>
+				<Style>
+					<Name>1</Name>
+					<Title>1</Title>
+					<Abstract></Abstract>
+					<LegendURL width="20" height="20">
+						<Format>image/png</Format>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=circuitos"></OnlineResource>
 					</LegendURL>
 				</Style>
 			</Layer>
